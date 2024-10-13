@@ -1,0 +1,21 @@
+font-family: 'Heebo', sans-serif;
+font-family: 'Russo One', sans-serif;
+
+html link
+--><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Russo+One&display=swap" rel="stylesheet">
+
+
+css importlink
+
+--><style>
+  @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Russo+One&display=swap');
+</style>
+
+
+font awsome cdn link
+--> <link rel="stylesheet" href=" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+font awsome javascript link
+--><script src="https://kit.fontawesome.com/e1f46534f4.js" crossorigin="anonymous"></script>
